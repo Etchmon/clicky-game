@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "image": "/assets/images/Abra.jpg",
+        "name": "Brown Chihuahua"
+    },
+    {
+        "id": 2,
+        "image": "/assets/images/Beedrill.jpg",
+        "name": "Chubby Chihuahua"
+    },
+    {
+        "id": 3,
+        "image": "assets/images/Bulbasaur.jpg",
+        "name": "Grumpy Chihuahua"
+    },
+    {
+        "id": 4,
+        "image": "assets/images/Butterfree.jpg",
+        "name": "Lady Chihuahua"
+    },
+    {
+        "id": 5,
+        "image": "assets/images/Charmander.jpg",
+        "name": "Stern Chihuahua"
+    },
+    {
+        "id": 6,
+        "image": "assets/images/Ekans.jpg",
+        "name": "White Chihuahua"
+    },
+    {
+        "id": 7,
+        "image": "assets/images/Jigglypuff.jpg",
+        "name": "Stern Chihuahua"
+    },
+    {
+        "id": 8,
+        "image": "assets/images/Meowth.jpg",
+        "name": "Stern Chihuahua"
+    },
+    {
+        "id": 9,
+        "image": "assets/images/Pikachu.jpg",
+        "name": "Stern Chihuahua"
+    },
+    {
+        "id": 10,
+        "image": "assets/images/Psyduck.jpg",
+        "name": "Stern Chihuahua"
+    },
+    {
+        "id": 11,
+        "image": "assets/images/Squirtle.jpg",
+        "name": "Stern Chihuahua"
+    },
+    {
+        "id": 12,
+        "image": "assets/images/Vulpix.jpg",
+        "name": "Stern Chihuahua"
+    }
+]
